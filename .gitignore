@@ -1,0 +1,29 @@
+# Node modules and locks
+node_modules/
+.pnpm-debug.log
+npm-debug.log
+
+# Build outputs
+dist/
+build/
+.next/
+out/
+.expo/
+expo-debug.log
+
+# Environment files
+.env
+.env.*
+
+# System files
+.DS_Store
+*.log
+*.tsbuildinfo
+
+# IDE / Editor files
+.vscode/
+.idea/
+*.swp
+
+# OS-specific
+Thumbs.db
