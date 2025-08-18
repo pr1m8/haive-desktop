@@ -24,6 +24,7 @@ expo-debug.log
 .vscode/
 .idea/
 *.swp
+.history/
 
 # OS-specific
 Thumbs.db
